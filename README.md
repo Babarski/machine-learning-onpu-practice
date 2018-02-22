@@ -1,2 +1,2 @@
 # machine-learning-onpu-practice
-Files, which connected to my courses
+Files that are associated with my courses
